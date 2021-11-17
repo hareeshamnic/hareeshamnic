@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hareeshamnic
-- 👀 I’m Backend developer
+- 👀 I’m a Backend developer
 - 📫 You can reach me via hareesh@amnic.com 
 
 <!---
